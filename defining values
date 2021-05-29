@@ -1,0 +1,5 @@
+#include<wire.h>
+#include<adafruit_MLX90614.h>
+adafruit_MLX90614=lx=adafruit_MLX90614();
+#include<TinyGPS++.h>
+TinyGPSPlus gps;
